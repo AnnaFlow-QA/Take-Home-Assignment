@@ -25,4 +25,4 @@ Image URL: https://m.media-amazon.com/images/I/51WrTYoKXfL._SX348_BO1,204,203,20
 
 11.App should return an error message when submitting the “Add book” button with blank text fields
 
-12.User unable to delete a book (401 error message  - Unauthorized)
+12.User unable to delete a book (401 error message  - Unauthorized. Authorization may required to delete the resource
