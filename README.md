@@ -4,7 +4,7 @@
 
 1.App does not open in the desired state
 
-2.The “Add book” button does not bring up a form to add a new book.
+2.The “Add book” button does not bring up a form to add a new book when app displays a list of books
 
 3.Submitting the “Add Book” button after filling out the text fields with valid inputs does not return a success message, instead it  returns a blank form
 
@@ -25,10 +25,12 @@ Image URL: https://m.media-amazon.com/images/I/51WrTYoKXfL._SX348_BO1,204,203,20
 
 11.App should return an error message when submitting the “Add book” button with blank text fields
 
-12.User unable to delete a book (401 error message  - Unauthorized. Authorization may required to delete the resource
+12.User unable to delete a book (401 error message  - Unauthorized. Authorization may be required to delete the resource
 
 13. "Author", "Title", "Description" and "Image URL" font not in bold, mismatch between the fonts.
 
 
 ## Next steps: API and data base testing 
+
+## Enhancement to the app: "Favorite" feature
 
