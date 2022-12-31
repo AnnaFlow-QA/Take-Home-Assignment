@@ -32,5 +32,5 @@ Image URL: https://m.media-amazon.com/images/I/51WrTYoKXfL._SX348_BO1,204,203,20
 
 ## Next steps: API and data base testing 
 
-## Enhancement to the app: "Favorite" feature
+## Enhancement to the app: "Favorite" and "Search" features
 
